@@ -2,7 +2,7 @@
   "devDependencies": {
     "discord.js": "^13.8.1"
   },
-  "name": "discord-sync-commands",
+  "name": "discord-sync-commands-v2",
   "version": "1.0.0",
   "description": "Easily keep your bot's slash commands synchronized with Discord",
   "main": "index.js",
