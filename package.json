@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "discord.js": "^13.8.1"
+  },
+  "name": "discord-sync-commands",
+  "version": "1.0.0",
+  "description": "Easily keep your bot's slash commands synchronized with Discord",
+  "main": "index.js",
+  "repository": "https://github.com/loucaslt/discord-sync-commands",
+  "author": "LouLou <loulou@banwaves.xyz>",
+  "license": "MIT"
+
+}
